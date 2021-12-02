@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="button_not_clicked">Button not clicked</string>
+</resources>
